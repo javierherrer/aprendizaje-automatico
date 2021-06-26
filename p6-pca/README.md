@@ -1,0 +1,2 @@
+# Práctica 6: Análisis de componentes principales
+El objetivo es utilizar técnicas de reducción de dimensión basadas en el análisis de componentes principales. En la primera parte, utilizaremos SVD para comprimir una imagen. En la segunda parte evaluaremos el uso de PCA para la reconstrucción de dígitos y su clasificación. Para ello deberéis tener preparado el clasificador que utilizasteis con MNIST.
