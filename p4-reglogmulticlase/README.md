@@ -1,0 +1,2 @@
+# Práctica 4: Regresión logística multi-clase
+El objetivo es resolver mediante regresión logística un problema real de clasificación multi-clase: el reconocimiento de dígitos manuscritos. Utilizaremos una versión reducida del conjunto de datos MNIST http://yann.lecun.com/exdb/mnist/. Cada muestra es una imagen de 20x20 píxeles. Como atributos para la clasificación utilizaremos directamente los niveles de intensidad de los 400 píxeles.
