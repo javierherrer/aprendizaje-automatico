@@ -1,0 +1,2 @@
+# Práctica 5: Clasificación bayesiana
+El objetivo es resolver mediante clasificación Bayesiana un problema real de clasificación multi-clase: el reconocimiento de dígitos manuscritos. Igual que en la práctica anterior, utilizaremos una versión reducida del conjunto de datos MNIST, y usaremos para la clasificación los niveles de intensidad de los 400 píxeles de cada dígito. Utilizaremos modelos Gaussianos para los atributos de cada clase.
